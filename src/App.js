@@ -1,5 +1,5 @@
 import "./App.css";
-import Header from "./components/Header";
+import Highlights from "./components/Highlights";
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
 import Footer from "./components/Footer";
@@ -7,8 +7,8 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <Header />
       <Nav />
+      <Highlights />
       <Hero />
       <Footer />
     </>
