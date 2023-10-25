@@ -3,20 +3,20 @@ import "../App.css";
 
 function Nav() {
   return (
-    <div classname="main-nav">
+    <div className="main-nav">
       <div>
-        <head>
-          <meta
+        <header>
+          {/* <meta
             name="description"
             content="Restaurant websit that represent Little Lemon"
           />
           <meta name="og:title" content="" />
-          <meta name="og:image" content="../images.png" />
+          <meta name="og:image" content="../images.png" /> */}
           <img src={logo} alt="logo-Pic" />
-        </head>
+        </header>
       </div>
       <div>
-        <nav>
+        <nav className="nav">
           <li>
             <a href="/">HOME</a>
           </li>
