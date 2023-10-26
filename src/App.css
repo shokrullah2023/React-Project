@@ -3,11 +3,9 @@
   margin: 0 auto;
   text-align: center;
   /* font-family: 'Markazi Text', sans-serif; */
-  font-family: 'Karla', sans-serif;
+  font-family: "Karla", sans-serif;
   box-sizing: border-box;
 }
-
-
 
 .App-logo {
   height: 40vmin;
