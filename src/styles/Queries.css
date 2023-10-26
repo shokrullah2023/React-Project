@@ -1,0 +1,5 @@
+@media (max-width:108rem){
+    .nav-list a {
+        font-size: 0.8rem;
+    }
+}

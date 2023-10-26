@@ -6,10 +6,10 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="container">
+    <div className="App">
       <Nav />
-      <Highlights />
       <Hero />
+      <Highlights />
       <Footer />
     </div>
   );

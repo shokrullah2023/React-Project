@@ -1,5 +1,6 @@
 import logo from "../logo.svg";
-import "../App.css";
+import "../styles/Nav.css";
+import "../styles/Queries.css";
 
 function Nav() {
   return (
@@ -16,7 +17,7 @@ function Nav() {
         </header>
       </div>
       <div>
-        <nav className="nav">
+        <nav className="nav-list">
           <li>
             <a href="/">HOME</a>
           </li>

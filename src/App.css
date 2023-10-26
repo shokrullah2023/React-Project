@@ -1,13 +1,13 @@
 .App {
   padding: 0;
-  margin: 0;
+  margin: 0 auto;
   text-align: center;
-  font-family: mar;
+  /* font-family: 'Markazi Text', sans-serif; */
+  font-family: 'Karla', sans-serif;
+  box-sizing: border-box;
 }
 
-.container {
-  padding: 4rem;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -29,25 +29,6 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-/* MAIN NAVIGATION */
-
-.main-nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.nav {
-  display: flex;
-}
-
-.nav li {
-  list-style: none;
-  margin-left: 3.2rem;
-  text-transform: none;
 }
 
 @keyframes App-logo-spin {

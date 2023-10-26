@@ -1,0 +1,28 @@
+/* MAIN NAVIGATION */
+
+.main-nav {
+    padding:2rem;
+    margin: 0 16.6em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .nav-list {
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-list li{
+    list-style: none;
+    margin-left: 3.2rem;
+    text-decoration: none;
+  }
+
+  .nav-list a {
+    text-decoration: none;
+    color: #333333;
+    font-weight: 500;
+    font-size: 1.2rem;
+  }
