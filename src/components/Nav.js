@@ -19,22 +19,22 @@ function Nav() {
       <div>
         <nav className="nav-list">
           <li>
-            <a href="/">HOME</a>
+            <a href="/">Home</a>
           </li>
           <li>
-            <a href="/">ABOUT</a>
+            <a href="/">About</a>
           </li>
           <li>
-            <a href="/">MENU</a>
+            <a href="/">Menu</a>
           </li>
           <li>
-            <a href="/">RESERVATION</a>
+            <a href="/">Reservation</a>
           </li>
           <li>
-            <a href="/">ORDER ONLINE</a>
+            <a href="/">Order Online</a>
           </li>
           <li>
-            <a href="/">LOGIN</a>
+            <a href="/">Login</a>
           </li>
         </nav>
       </div>
