@@ -1,6 +1,7 @@
 import logo from "../logo.svg";
 import "../styles/Nav.css";
 import "../styles/Queries.css";
+import BookingForm from "./BookingForm";
 
 function Nav() {
   return (
@@ -28,7 +29,7 @@ function Nav() {
             <a href="/">Menu</a>
           </li>
           <li>
-            <a href="/">Reservation</a>
+            <a href={BookingForm}>Reservation</a>
           </li>
           <li>
             <a href="/">Order Online</a>
