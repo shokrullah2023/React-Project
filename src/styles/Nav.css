@@ -14,13 +14,13 @@
   align-items: center;
 }
 
-.nav-list li {
+.nav-list Link {
   list-style: none;
   margin-left: 3.2rem;
   text-decoration: none;
 }
 
-.nav-list a {
+.nav-list Link {
   text-decoration: none;
   color: #333333;
   font-weight: 700;
