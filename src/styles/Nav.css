@@ -9,21 +9,18 @@
   align-items: center;
 }
 
-.nav-list {
+.nav-list ul{
   display: flex;
   align-items: center;
-}
-
-.nav-list Link {
   list-style: none;
-  margin-left: 3.2rem;
-  text-decoration: none;
 }
 
-.nav-list Link {
-  text-decoration: none;
-  color: #333333;
+.nav-elem {
   font-weight: 700;
   font-size: 1.6rem;
+  color: #333333;
+  text-decoration: none;
+  margin-left: 3.2rem;
+  text-decoration: none;
   line-height: 1.6rem;
 }
